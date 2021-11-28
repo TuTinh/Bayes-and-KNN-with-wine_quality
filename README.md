@@ -25,3 +25,9 @@ Có 12 feature khác nhau có trong bộ dữ liệu bao gồm dữ liệu về 
 | --- | --- |
 | Red wine  | ![image.png](redwinedataset.png) |
 | White wine | ![image.png](whitewinedataset.png) |
+
+### Kết quả
+
+| Kết quả |
+| ---             |
+| ![image.jpg](Models.png) |
